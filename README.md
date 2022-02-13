@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lyujade
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning python
+
 
 
 <!---
